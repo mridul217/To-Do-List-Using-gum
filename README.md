@@ -4,7 +4,7 @@ To do list menu driven programming using bash and bubblegum to make the interact
 ## How to run
 ```
 # clone the reopository
-https://github.com/mridul217/To-Do-List-Using-gum.git
+git clone https://github.com/mridul217/To-Do-List-Using-gum.git
 
 # go inside the folder
 cd 'To-Do-List-Using-gum'
